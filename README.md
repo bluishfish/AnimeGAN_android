@@ -1,9 +1,8 @@
-# Style Transfer Android sample.
+# Style Transfer Android AnimeGAN App.
 
-Artistic style transfer is an optimization technique used to take two images: a
-content image and a style reference image (such as an artwork by a famous
-painter) and blend them together so the output image looks like the content
-image, but “painted” in the style of the style reference image.
+![image](https://github.com/bluishfish/AnimeGAN_android/blob/master/screen_shot/20200417163410.jpg)
+![image](https://github.com/bluishfish/AnimeGAN_android/blob/master/screen_shot/20200417163436.jpg)
+![image](https://github.com/bluishfish/AnimeGAN_android/blob/master/screen_shot/20200422150041.jpg)
 
 ## Requirements
 
@@ -18,14 +17,14 @@ Clone the TensorFlow examples GitHub repository to your computer to get the demo
 application.
 
 ```
-git clone https://github.com/tensorflow/examples
+git clone https://github.com/bluishfish/AnimeGAN_android.git
 ```
 
 ### Step 2. Import the sample app to Android Studio
 
 Open the TensorFlow source code in Android Studio. To do this, open Android
 Studio and select `Import Projects (Gradle, Eclipse ADT, etc.)`, setting the
-folder to `examples/lite/examples/style_transfer/android`
+folder to `AnimeGAN_android`
 
 ### Step 3. Run the Android app
 
