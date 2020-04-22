@@ -1,8 +1,8 @@
 # Style Transfer Android AnimeGAN App.
 
-![image](https://github.com/bluishfish/AnimeGAN_android/blob/master/screen_shot/20200417163410.jpg)
-![image](https://github.com/bluishfish/AnimeGAN_android/blob/master/screen_shot/20200417163436.jpg)
-![image](https://github.com/bluishfish/AnimeGAN_android/blob/master/screen_shot/20200422150041.jpg)
+![image](https://raw.githubusercontent.com/bluishfish/AnimeGAN_android/master/screen_shot/20200417163410.jpg)
+![image](https://raw.githubusercontent.com/bluishfish/AnimeGAN_android/master/screen_shot/20200417163436.jpg)
+![image](https://raw.githubusercontent.com/bluishfish/AnimeGAN_android/master/screen_shot/20200422150041.jpg)
 
 ## Requirements
 
