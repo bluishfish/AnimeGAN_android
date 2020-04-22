@@ -54,9 +54,7 @@ class StyleTransferModelExecutor(
 
   companion object {
     private const val TAG = "StyleTransferMExec"
-    private const val STYLE_IMAGE_SIZE = 256
     private const val CONTENT_IMAGE_SIZE = 256
-    private const val BOTTLENECK_SIZE = 100
     private const val Anime_TRANSFER_MODEL = "sytle_transfer_anime.tflite"
   }
 
